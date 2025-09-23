@@ -16,12 +16,12 @@ Dado um conjunto de vértices **V**, as distâncias entre eles e um inteiro **k*
 
 ## 📊 Resultados
 
-O método exato (KcentrosExato.java) encontra a solução ótima, mas é inviável para instâncias grandes devido à explosão combinatória.
+- O método exato (KcentrosExato.java) encontra a solução ótima, mas é inviável para instâncias grandes devido à explosão combinatória.
 
-O método aproximado (KCentrosAprox) gera soluções de qualidade em frações de segundo, mesmo em grafos grandes.
+ -O método aproximado (KCentrosAprox) gera soluções de qualidade em frações de segundo, mesmo em grafos grandes.
 
 Exemplo:
 
-Exato (pmed1.txt, 100 vértices, k=5): raio = 127 (90s de execução).
+- Exato (pmed1.txt, 100 vértices, k=5): raio = 127 (90s de execução).
 
-Aproximado (pmed16.txt, 400 vértices, k=5): raio ≈ 84 (0,9ms de execução).
+- Aproximado (pmed16.txt, 400 vértices, k=5): raio ≈ 84 (0,9ms de execução).
