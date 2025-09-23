@@ -18,7 +18,7 @@ Dado um conjunto de vértices **V**, as distâncias entre eles e um inteiro **k*
 
 - O método exato (KcentrosExato.java) encontra a solução ótima, mas é inviável para instâncias grandes devido à explosão combinatória.
 
- -O método aproximado (KCentrosAprox) gera soluções de qualidade em frações de segundo, mesmo em grafos grandes.
+- O método aproximado (KCentrosAprox) gera soluções de qualidade em frações de segundo, mesmo em grafos grandes.
 
 Exemplo:
 
