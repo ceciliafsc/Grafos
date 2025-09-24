@@ -1,8 +1,6 @@
-# TP04 – Fluxo Máximo (Ford-Fulkerson)
+# TP01 – Fluxo Máximo (Ford-Fulkerson)
 
 Este trabalho prático tem como objetivo **encontrar todos os caminhos disjuntos em arestas** em um grafo direcionado, utilizando o **algoritmo de Ford-Fulkerson**.
-
-📄 O relatório completo pode ser consultado em [`docs/TP04.pdf`](docs/TP04.pdf).
 
 ---
 
